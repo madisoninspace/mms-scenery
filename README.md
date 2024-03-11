@@ -6,5 +6,3 @@
 | Filename  | Airport Code  | Description  |
 |---|---|---|
 | mms-airport-oa08-medflight.zip  | OA08  | The MedFlight heliport at OSU Airport, Columbus, Ohio  |
-|   |   |   |
-|   |   |   |
